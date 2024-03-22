@@ -106,7 +106,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"DefaultVerySmall"
+		"font"			"SpectatorKeyHints"
 		"fgcolor"		"GeneralLabel"
 		"xpos"			"0"
 		"ypos"			"0"
