@@ -210,7 +210,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"-12"
-		"ypos"		"0"
+		"ypos"		"25"
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -223,7 +223,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"-12"
-		"ypos"		"0"
+		"ypos"		"25"
 		"wide"		"640"
 		"tall"		"480"
 		
