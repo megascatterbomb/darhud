@@ -603,9 +603,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"11"
-				"weight"	"700"
+				"name"		"TF2 Build"
+				"tall"		"6"
+				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}

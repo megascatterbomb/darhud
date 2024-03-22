@@ -408,14 +408,14 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "6"
-		"IconScale"	  "0.35"
-		"LineHeight"	  "11"
+		"MaxDeathNotices" "32"
+		"IconScale"	  "0.3"
+		"LineHeight"	  "10"
 		"LineSpacing"	  "1"
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"KillfeedFont"
+		"TextFont"		"HudFontSmallest"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
