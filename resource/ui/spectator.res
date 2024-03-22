@@ -280,9 +280,9 @@
 		"tall"			"64"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"labelText"		"%tip%"
 		"textAlignment"		"center"
 		"font"			"TF2Default"
@@ -299,7 +299,7 @@
 		"tall"				"36"
 		"autoResize"		"0"
 		"pinCorner"			"0"
-		"visible"			"1"
+		"visible"			"0"
 		"bgcolor_override"	"GeneralBackground"
 	}
 	
