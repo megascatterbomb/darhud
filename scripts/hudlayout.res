@@ -642,10 +642,11 @@
 		"fieldName" "HudVoiceSelfStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos" "r172"
+		"xpos" "40"
+		"xpos_minmode" "c-320"
 		"ypos" "350"
-		"wide" "25"
-		"tall" "25"
+		"wide" "35"
+		"tall" "35"
 	}
 
 	HudVoiceStatus
@@ -895,11 +896,11 @@
 		"fieldName" 	"HudMenuEngyBuild"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"cs-0.5"
-		"ypos"			"c90"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"275"
-		"tall"			"115"
+		"wide"			"f0"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -908,11 +909,11 @@
 		"fieldName" 	"HudMenuEngyDestroy"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"cs-0.5"
-		"ypos"			"c90"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"275"
-		"tall"			"115"
+		"wide"			"f0"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -935,11 +936,11 @@
 		"ControlName"	"EditablePanel"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"cs-0.5"
-		"ypos"			"c90"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"10"
-		"wide"			"305"
-		"tall"			"85"
+		"wide"			"f0"
+		"tall"			"f0"
 	}	
 	
 	HudDemomanPipes
@@ -1300,10 +1301,11 @@
 		"fieldName" 	"HudMenuTauntSelection"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"cs-0.5"
-		"ypos"			"c70"
-		"wide"			"200"
-		"tall"			"134"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"10"
+		"wide"			"f0"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 
