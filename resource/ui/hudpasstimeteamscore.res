@@ -25,7 +25,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/ctf/ctf_left"
+		"image"			"replay/thumbnails/counter_blue"
 		"scaleImage"	"1"	
 	}
 
@@ -40,7 +40,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/ctf/ctf_left_shadow"
+		"image"			"replay/thumbnails/counter_shadow"
 		"scaleImage"	"1"	
 	}
 		
@@ -55,7 +55,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/ctf/ctf_right"
+		"image"			"replay/thumbnails/counter_reverse_red"
 		"scaleImage"	"1"	
 	}	
 	
@@ -70,7 +70,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/ctf/ctf_right_shadow"
+		"image"			"replay/thumbnails/counter_reverse_shadow"
 		"scaleImage"	"1"
 	}
 		
