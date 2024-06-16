@@ -355,43 +355,6 @@
 		"fieldName"		"ClassOrTeamLabel"
 		"visible"		"0"
 	}
-	"SwitchCamModeKeyLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"SwitchCamModeKeyLabel"
-		"visible"		"0"
-		
-	}
-	"SwitchCamModeLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"SwitchCamModeLabel"
-		"visible"		"0"
-	}
-	"CycleTargetFwdKeyLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetFwdKeyLabel"
-		"visible"		"0"
-	}
-	"CycleTargetFwdLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetFwdLabel"
-		"visible"		"0"
-	}
-	"CycleTargetRevKeyLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetRevKeyLabel"
-		"visible"		"0"
-	}
-	"CycleTargetRevLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"CycleTargetRevLabel"
-		"visible"		"0"
-	}
 	"TipLabel"
 	{
 		"ControlName"		"CExLabel"
