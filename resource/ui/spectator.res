@@ -161,7 +161,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeKeyLabel"
-		"fgcolor_override"		"GeneralLabel"
+		"fgcolor_override"		"0 0 0 0"
 		"xpos"			"15"
 		"ypos"			"r114"
 		"wide"			"60"
@@ -180,7 +180,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"fgcolor_override"		"GeneralLabel"
+		"fgcolor_override"		"0 0 0 0"
 		"xpos"			"52"
 		"ypos"			"r114"	
 		"wide"			"125"
@@ -199,7 +199,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdKeyLabel"
-		"fgcolor_override"		"GeneralLabel"
+		"fgcolor_override"		"0 0 0 0"
 		"xpos"			"15"
 		"ypos"			"r99"
 		"wide"			"60"
@@ -208,7 +208,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"visible_minmode"		"0"
-		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ClassOrTeamKey"
 		"textAlignment"		"west"
@@ -218,7 +217,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"fgcolor_override"		"GeneralLabel"
+		"fgcolor_override"		"0 0 0 0"
 		"xpos"			"52"
 		"ypos"			"r99"	
 		"wide"			"125"
@@ -236,7 +235,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevKeyLabel"
-		"fgcolor_override"		"GeneralLabel"
+		"fgcolor_override"		"0 0 0 0"
 		"xpos"			"15"
 		"ypos"			"r89"
 		"wide"			"60"
@@ -254,7 +253,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevLabel"
-		"fgcolor_override"		"GeneralLabel"
+		"fgcolor_override"		"0 0 0 0"
 		"xpos"			"52"
 		"ypos"			"r89"
 		"wide"			"125"
