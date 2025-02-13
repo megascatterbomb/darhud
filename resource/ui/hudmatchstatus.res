@@ -521,7 +521,7 @@
 				"font"			"PlayerPanelPlayerName"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
-				"zpos"			"5"
+				"zpos"			"8"
 				"wide"			"f0"
 				"tall"			"19"
 				"autoResize"	"0"
