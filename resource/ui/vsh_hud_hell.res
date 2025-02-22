@@ -200,7 +200,7 @@
 			"fieldName"				"ProgressBarContainer"
 			"ControlName"			"EditablePanel"
 			"xpos"					"c-100"
-			"ypos"					"55"
+			"ypos"					"47"
 			"zpos"					"1"
 			"wide"					"183"
 			"tall"					"50"
